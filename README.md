@@ -100,7 +100,7 @@ Estou sempre aberto a desafios que exijam inovação e colaboração. 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseeduardomartins/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zeduardoo_/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseEduardoMartins)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=globe&logoColor=white)](https://joseeduardomartins.github.io/portfolio/)
 
 </div>
 
