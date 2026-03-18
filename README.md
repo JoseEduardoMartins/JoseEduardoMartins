@@ -10,13 +10,9 @@
 
 </div>
 
----
-
 ### Sobre mim
 
 Desenvolvedor apaixonado por tecnologia, focado em **JavaScript** e **TypeScript**. Gosto de construir soluções do zero — do backend ao frontend — sempre priorizando qualidade e experiência do usuário. Sempre aberto a novos desafios. 🚀
-
----
 
 ### Stack & Ferramentas
 
@@ -25,8 +21,6 @@ Desenvolvedor apaixonado por tecnologia, focado em **JavaScript** e **TypeScript
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwindcss,docker,linux,aws,postgresql,git&theme=dark" />
 
 </div>
-
----
 
 ### GitHub Stats
 
@@ -38,8 +32,6 @@ Desenvolvedor apaixonado por tecnologia, focado em **JavaScript** e **TypeScript
 
 </div>
 
----
-
 ### Contato
 
 <div align="center">
@@ -48,8 +40,6 @@ Desenvolvedor apaixonado por tecnologia, focado em **JavaScript** e **TypeScript
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zeduardoo_/)
 
 </div>
-
----
 
 <div align="center">
 
