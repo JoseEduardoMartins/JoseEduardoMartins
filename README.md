@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=José%20Eduardo%20Martins&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-# Olá, sou José Eduardo! 👋
-
-**Engenheiro de Software | Entusiasta Linux | Especialista JavaScript & TypeScript**
+<img src="https://readme-typing-svg.herokuapp.com/?color=16213e&size=25&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Software;Entusiasta+Linux;Especialista+JavaScript+%26+TypeScript" />
 
 <a href="https://joseeduardomartins.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-joseeduardomartins.github.io-1a1a2e?style=for-the-badge&logo=globe&logoColor=white" />
