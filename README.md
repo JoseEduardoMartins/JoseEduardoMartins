@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Portfolio-joseeduardomartins.github.io-1a1a2e?style=for-the-badge&logo=globe&logoColor=white" />
 </a>
 
-</div>
 
 ### Sobre mim
 
@@ -16,32 +15,18 @@ Desenvolvedor apaixonado por tecnologia, focado em **JavaScript** e **TypeScript
 
 ### Stack & Ferramentas
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwindcss,docker,linux,aws,postgresql,git&theme=dark" />
-
-</div>
 
 ### GitHub Stats
 
-<div align="center">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=JoseEduardoMartins&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&include_all_commits=true&count_private=true"/>
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=JoseEduardoMartins&show_icons=true&theme=default&hide_border=true&bg_color=fff&title_color=333&icon_color=333&include_all_commits=true"/>
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEduardoMartins&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=333"/>
-
-</div>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEduardoMartins&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2"/>
 
 ### Contato
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseeduardomartins/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zeduardoo_/)
-
-</div>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=120&section=footer"/>
 
