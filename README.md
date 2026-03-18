@@ -11,7 +11,7 @@
 
 ### Sobre mim
 
-Desenvolvedor apaixonado por tecnologia, focado em **JavaScript** e **TypeScript**. Gosto de construir soluções do zero — do backend ao frontend — sempre priorizando qualidade e experiência do usuário. Sempre aberto a novos desafios. 🚀
+Desenvolvedor apaixonado por tecnologia, focado em **JavaScript** e **TypeScript**. Gosto de construir soluções do zero, do backend ao frontend, sempre priorizando qualidade e experiência do usuário. Sempre aberto a novos desafios. 🚀
 
 ### Stack & Ferramentas
 
