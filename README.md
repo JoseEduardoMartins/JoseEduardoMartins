@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=José%20Eduardo%20Martins&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=160&section=header&text=José%20Eduardo%20Martins&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=16213e&size=25&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Software;Entusiasta+Linux;Especialista+JavaScript+%26+TypeScript" />
 
@@ -53,6 +53,6 @@ Desenvolvedor apaixonado por tecnologia, focado em **JavaScript** e **TypeScript
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=120&section=footer"/>
 
 </div>
